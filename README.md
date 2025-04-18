@@ -49,8 +49,8 @@
 
 ### Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegolaymi&icons=false&theme=transparent&title_color=1f6feb&text_color=f0f6fc&&border_color=3d444d&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegolaymi&theme=transparent&title_color=1f6feb&text_color=f0f6fc&&border_color=3d444d&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-laymi&icons=false&theme=transparent&title_color=1f6feb&text_color=f0f6fc&&border_color=3d444d&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-laymi&theme=transparent&title_color=1f6feb&text_color=f0f6fc&&border_color=3d444d&layout=compact)
 
 ### Tecnologias
 
