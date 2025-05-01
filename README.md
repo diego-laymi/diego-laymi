@@ -1,7 +1,7 @@
 ### Hey 👋
 
 <div style="display: flex; gap: 8px ">
-  <img align="left" src="https://cdn.discordapp.com/attachments/1274066530241347667/1318712271236501645/Diego_Laymi_v2.png?ex=6800dd41&is=67ff8bc1&hm=8826fdb6333a8fb55823b876ce617da3cc598dea9995407c71acd6494d539974&" width="260" style="border-radius: 8px; overflow: hidden;"/>
+  <img align="left" src="https://github.com/fullmiga.png" width="260" style="border-radius: 8px; overflow: hidden;"/>
   <div>
     
   Eu me chamo **Diego Laymi** ou **FullMiga** como você quiser!
