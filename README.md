@@ -8,7 +8,7 @@
     
   Desenvolvedor Front-End apaixonado por projetos criativos e imersivos
 
-  Atualmente desenvolvendo um projeto pessoal para [Madness Project Nexus](https://www.madnessprojectnexus.com/)
+  Atualmente desenvolvendo um projeto pessoal - [Redragon Elise Pro]()
 
   <br />
   <br />
